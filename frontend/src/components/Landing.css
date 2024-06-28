@@ -1,0 +1,33 @@
+
+body {
+    margin: 80px;
+    font-size: 21px;
+    font-family: Arial, sans-serif;
+    background-color: #ca9147; /* Light coffee color */
+    color: white; /* White text color */
+  }
+  
+  h1, h2, h3, p, ul, li {
+    color: rgb(102, 41, 41);
+  }
+  
+  button {
+    background-color: #724627; /* Darker coffee color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 22px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #5A3A2B; /* Darker shade on hover */
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
